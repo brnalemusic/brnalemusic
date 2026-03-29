@@ -6,11 +6,8 @@
   <p><b>Desenvolvedor & Criador Audiovisual | Foco em Alta Performance</b></p>
 
   <p>
-    <a href="https://www.reccorder.com.br/" target="_blank">
+    <a href="https://brnalemusic.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Site_Oficial-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site Rec Corder"/>
-    </a>
-    <a href="https://github.com/brnalemusic/rec-corder" target="_blank">
-      <img src="https://img.shields.io/badge/Código_Fonte-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
     </a>
     <a href="mailto:seuemail@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
