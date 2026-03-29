@@ -41,17 +41,9 @@
   <h2>📊 Status do Perfil</h2>
   
   <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=brnalemusic&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&bg_color=0d1117">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=brnalemusic&show_icons=true&theme=default&hide_border=true&include_all_commits=true">
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=brnalemusic&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-    </picture>
+    <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=brnalemusic&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
     &nbsp;
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brnalemusic&layout=compact&theme=radical&hide_border=true&bg_color=0d1117">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brnalemusic&layout=compact&theme=default&hide_border=true">
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnalemusic&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-    </picture>
+    <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=brnalemusic&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
   </p>
 
   <br>
