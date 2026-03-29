@@ -9,9 +9,6 @@
     <a href="https://brnalemusic.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Site_Oficial-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site Rec Corder"/>
     </a>
-    <a href="mailto:seuemail@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
   </p>
 
   <hr style="width: 60%; border: 1px solid #30363d; margin: 30px auto;" />
